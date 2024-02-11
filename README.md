@@ -22,6 +22,7 @@ BOSH: [Build a CPI](https://bosh.io/docs/build-cpi/)
 * boshuuid "github.com/cloudfoundry/bosh-utils/uuid"
 
 ## Proxmox
-* [Proxmox API](https://github.com/luthermonson/go-proxmox)
-* [Proxmox Telmaite API](https://github.com/Telmate/proxmox-api-go)
-* [Proxmox go Telmate API documentation](https://pkg.go.dev/github.com/telmate/proxmox-api-go/proxmox)
+* [Proxmox VE Telmaite API](https://github.com/Telmate/proxmox-api-go)
+* [Proxmox VE API](https://github.com/luthermonson/go-proxmox)
+* [Proxmox VE go Telmate API documentation](https://pkg.go.dev/github.com/telmate/proxmox-api-go/proxmox)
+* [Proxmox VE API wiki](https://pve.proxmox.com/wiki/Proxmox_VE_API)
