@@ -23,4 +23,5 @@ BOSH: [Build a CPI](https://bosh.io/docs/build-cpi/)
 
 ## Proxmox
 * [Proxmox API](https://github.com/luthermonson/go-proxmox)
-* [Proxmox CLI](https://github.com/Telmate/proxmox-api-go)
+* [Proxmox Telmaite API](https://github.com/Telmate/proxmox-api-go)
+* [Proxmox go Telmate API documentation](https://pkg.go.dev/github.com/telmate/proxmox-api-go/proxmox)
